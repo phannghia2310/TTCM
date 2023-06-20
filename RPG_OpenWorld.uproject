@@ -16,15 +16,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MotionWarping",
-			"Enabled": true
-		},
-		{
 			"Name": "EnhancedInput",
 			"Enabled": true
 		},
 		{
 			"Name": "Metasound",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
 			"Enabled": true
 		}
 	]

@@ -1,0 +1,22 @@
+[0623/184642.699:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0623/184642.702:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0623/184642.703:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0623/184642.704:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
+[0623/184642.911:ERROR:dxva_video_decode_accelerator_win.cc(1341)] DXVAVDA fatal error: Could not load mf.dll: The specified module could not be found. (0x7E)
+[0623/184747.305:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0623/184747.305:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0623/184747.333:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0623/184747.333:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0623/184842.639:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0623/184842.640:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0623/184842.641:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0623/184842.642:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
+[0623/214354.357:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0623/214354.359:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0623/214354.360:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0623/214354.362:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
+[0623/214354.514:ERROR:dxva_video_decode_accelerator_win.cc(1341)] DXVAVDA fatal error: Could not load mf.dll: The specified module could not be found. (0x7E)
+[0623/214555.292:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0623/214555.294:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0623/214555.296:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0623/214555.298:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)

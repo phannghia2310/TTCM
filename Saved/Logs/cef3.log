@@ -20,3 +20,20 @@
 [0623/214555.294:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
 [0623/214555.296:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
 [0623/214555.298:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
+[0626/154803.575:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0626/154803.579:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0626/154803.581:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0626/154803.583:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
+[0626/154803.742:ERROR:dxva_video_decode_accelerator_win.cc(1341)] DXVAVDA fatal error: Could not load mf.dll: The specified module could not be found. (0x7E)
+[0626/155003.604:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0626/155003.605:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0626/155003.606:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0626/155003.607:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
+[0626/155324.096:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0626/155324.097:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0626/155324.253:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 37
+[0626/155324.439:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0626/155324.440:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0626/201210.689:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0626/201210.691:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0626/201213.937:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.

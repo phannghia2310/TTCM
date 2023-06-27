@@ -28,11 +28,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
+			"Name": "VirtualHeightfieldMesh",
 			"Enabled": true
 		},
 		{
-			"Name": "VirtualHeightfieldMesh",
+			"Name": "Landmass",
 			"Enabled": true
 		}
 	]

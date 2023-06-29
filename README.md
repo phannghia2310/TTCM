@@ -7,7 +7,7 @@ Topic: Thiết kế game đi nhap vai sử dụng Unreal Engine
 ![Screenshot (25)](https://github.com/phannghia2310/TTCM/assets/79625811/d7222566-98bf-42ad-9a7e-ad1fbfb83da1)
 ### Note: Find and download version 5.0.3, do not download any other version
 
-### Step 3: After dowwnload Unreal Engine, go to GitHub and download my source code and unzip it
+### Step 3: After download Unreal Engine, go to GitHub and download my source code and unzip it
 ###  - Github link: https://github.com/phannghia2310/TTCM
 ![Capture](https://github.com/phannghia2310/TTCM/assets/79625811/a9d62fc7-fd7d-4b3f-b44d-2e304995b5f9)
 

@@ -9,6 +9,7 @@ Topic: Thiết kế game đi nhap vai sử dụng Unreal Engine
 
 ### Step 3: After dowwnload Unreal Engine, go to GitHub and download my source code and unzip it
 ###  - Github link: https://github.com/phannghia2310/TTCM
+![Capture](https://github.com/phannghia2310/TTCM/assets/79625811/a9d62fc7-fd7d-4b3f-b44d-2e304995b5f9)
 
 ### Step 4: Open Unreal Engine on your Desktop, select "Recent Projects" -> "Browser" -> "RPG_OpenWorld.uproject"
 ![Screenshot (26)](https://github.com/phannghia2310/TTCM/assets/79625811/d70c29a3-a47f-43eb-9c81-8de48f8aa053)
